@@ -1,0 +1,2 @@
+# Machine-Learning
+ABC, a leading market research agency in Delhi, conducted a primary household survey in the Delhi region for an FI client planning to launch its financial products. The objective of the survey was to study the socio-economic status of the people living in the Delhi Development Authority flats. A total 29,834 respondents were interviewed. ABC wants to determine the factors that influence the monthly income of the respondents, so that it will help its client to streamline its marketing strategy.
